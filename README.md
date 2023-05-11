@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/-React-1e2128.svg?logo=react&style=popout)
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic">
 <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
 <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat">
