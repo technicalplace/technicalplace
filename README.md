@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic">
 <img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic">
 <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic">
-<img src="https://img.shields.io/badge/-Pocket-EF3F56.svg?logo=pocket&style=plastic">
 <img src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&style=plastic">
 <img src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=sass&style=plastic">
 <img src="https://img.shields.io/badge/-Webpack-8DD6F9.svg?logo=webpack&style=plastic">
